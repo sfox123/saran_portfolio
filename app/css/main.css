@@ -3716,7 +3716,7 @@ form textarea:required:valid {
   position: relative;
   overflow: hidden;
   cursor: pointer;
-  height: 300px;
+  height: 520px;
 }
 @media only screen and (min-width: 1400px) {
   .cards__item {
@@ -3725,6 +3725,7 @@ form textarea:required:valid {
 }
 
 .cards__card {
+  height: 100%;
   background-color: var(--base);
   border: 1px solid var(--stroke-elements);
   -moz-border-radius: var(--_radius-xl);
