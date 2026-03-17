@@ -1,7 +1,7 @@
 {
-  "name": "braxton",
+  "name": "saran",
   "version": "1.0.1",
-  "description": "Braxton - Personal Portfolio & Resume HTML Template",
+  "description": "Saran - Personal Portfolio & Resume HTML Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
